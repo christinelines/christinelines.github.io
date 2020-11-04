@@ -1,9 +1,9 @@
 # Christine Lines Web Page 
 
 Stories to come
-Uncke Squeaky story 1 [Uncle Squeaky 1](https://christinelines.github.io/US1.pdf)<\br>
+Uncle Squeaky story 1 [Uncle Squeaky 1](https://christinelines.github.io/US1.pdf)<br />
 
-Uncke Squeaky story 2 [Uncle Squeaky 1](https://christinelines.github.io/US2.pdf)
+Uncle Squeaky story 2 [Uncle Squeaky 2](https://christinelines.github.io/US2.pdf)<br />
 
 
 ## Welcome to GitHub Pages
