@@ -1,7 +1,7 @@
 # Christine Lines Web Page 
 
 Stories to come
-[Uncle Squeaky](https://christinelines.github.io/US1.pdf)
+[Uncle Squeaky 1](https://christinelines.github.io/US1.pdf)
 
 
 ## Welcome to GitHub Pages
